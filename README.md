@@ -5,6 +5,10 @@ Flask + Jupter botebook+ selenuim + bokeh + pandas 集成的准指纹浏览器
 
 **https://www.alipan.com/s/x6fqXe1jVg1**
 
+演示地址：
+
+https://www.bilibili.com/video/BV1Ax4y1b7sN/?spm_id_from=333.999.0.0
+
 # 使用说明
 
 第1步：解压Trace1.0.8.exe，运行里面的Trace-痕迹.exe，B站，小红书的数据分析已经封装，直接使用即可。
